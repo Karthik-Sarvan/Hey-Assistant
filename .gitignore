@@ -1,0 +1,20 @@
+# Build output
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.d
+
+# External repos
+micro-wake-word/
+
+# Editor & OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+__pycache__/
+*.pyc
